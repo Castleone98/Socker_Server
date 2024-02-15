@@ -1,0 +1,310 @@
+[Wed May 31 07:04:17 2023] Server is started
+[Wed May 31 07:04:17 2023] 5891 process is forked.
+[Wed May 31 07:04:17 2023] IdleProcessCount : 1
+[Wed May 31 07:04:17 2023] 5893 process is forked.
+[Wed May 31 07:04:17 2023] IdleProcessCount : 2
+[Wed May 31 07:04:17 2023] 5895 process is forked.
+[Wed May 31 07:04:17 2023] IdleProcessCount : 3
+[Wed May 31 07:04:17 2023] 5897 process is forked.
+[Wed May 31 07:04:17 2023] IdleProcessCount : 4
+[Wed May 31 07:04:17 2023] 5899 process is forked.
+[Wed May 31 07:04:17 2023] IdleProcessCount : 5
+
+========== New Client ==========
+URL : .[Wed May 31 07:04:25 2023]
+IP: 127.0.0.1
+Port: 55044
+================================
+[Wed May 31 07:04:25 2023] IdleProcessCount : 4
+
+====== Disconnected Client =======
+URL : .[Wed May 31 07:04:25 2023]
+IP: 127.0.0.1
+Port: 55044
+CONNECTING TIME: 659 
+==================================
+
+========== New Client ==========
+URL : 3_32.c[Wed May 31 07:04:27 2023]
+IP: 127.0.0.1
+Port: 55062
+================================
+[Wed May 31 07:04:27 2023] IdleProcessCount : 3
+
+====== Disconnected Client =======
+URL : 3_32.c[Wed May 31 07:04:27 2023]
+IP: 127.0.0.1
+Port: 55062
+CONNECTING TIME: 400 
+==================================
+
+========== New Client ==========
+URL : httpd.conf[Wed May 31 07:04:28 2023]
+IP: 127.0.0.1
+Port: 55064
+================================
+[Wed May 31 07:04:28 2023] IdleProcessCount : 2
+
+====== Disconnected Client =======
+URL : httpd.conf[Wed May 31 07:04:28 2023]
+IP: 127.0.0.1
+Port: 55064
+CONNECTING TIME: 235 
+==================================
+
+========== New Client ==========
+URL : 3_3.c[Wed May 31 07:04:30 2023]
+IP: 127.0.0.1
+Port: 55066
+================================
+[Wed May 31 07:04:30 2023] IdleProcessCount : 1
+
+====== Disconnected Client =======
+URL : 3_3.c[Wed May 31 07:04:30 2023]
+IP: 127.0.0.1
+Port: 55066
+CONNECTING TIME: 273 
+==================================
+[Wed May 31 07:04:30 2023] IdleProcessCount : 2
+
+========== New Client ==========
+URL : test[Wed May 31 07:04:31 2023]
+IP: 127.0.0.1
+Port: 55068
+================================
+[Wed May 31 07:04:31 2023] IdleProcessCount : 1
+
+====== Disconnected Client =======
+URL : test[Wed May 31 07:04:31 2023]
+IP: 127.0.0.1
+Port: 55068
+CONNECTING TIME: 282 
+==================================
+[Wed May 31 07:04:32 2023] IdleProcessCount : 2
+[Wed May 31 07:04:33 2023] IdleProcessCount : 3
+[Wed May 31 07:04:35 2023] IdleProcessCount : 4
+[Wed May 31 07:04:36 2023] IdleProcessCount : 5
+
+========== New Client ==========
+URL : server_log.txt[Wed May 31 07:04:52 2023]
+IP: 127.0.0.1
+Port: 55074
+================================
+[Wed May 31 07:04:52 2023] IdleProcessCount : 4
+
+====== Disconnected Client =======
+URL : server_log.txt[Wed May 31 07:04:52 2023]
+IP: 127.0.0.1
+Port: 55074
+CONNECTING TIME: 175 
+==================================
+[Wed May 31 07:04:57 2023] IdleProcessCount : 5
+[Wed May 31 07:10:50 2023] Server is started
+[Wed May 31 07:10:50 2023] 6205 process is forked.
+[Wed May 31 07:10:50 2023] IdleProcessCount : 1
+[Wed May 31 07:10:50 2023] 6207 process is forked.
+[Wed May 31 07:10:50 2023] IdleProcessCount : 2
+[Wed May 31 07:10:50 2023] 6209 process is forked.
+[Wed May 31 07:10:50 2023] IdleProcessCount : 3
+[Wed May 31 07:10:50 2023] 6211 process is forked.
+[Wed May 31 07:10:50 2023] IdleProcessCount : 4
+[Wed May 31 07:10:50 2023] 6213 process is forked.
+[Wed May 31 07:10:50 2023] IdleProcessCount : 5
+
+========== New Client ==========
+TIME : [Wed May 31 07:10:55 2023]
+URL : .
+IP: 127.0.0.1
+Port: 55180
+================================
+[Wed May 31 07:10:55 2023] IdleProcessCount : 4
+
+====== Disconnected Client =======
+TIME : [Wed May 31 07:10:55 2023]
+URL : .
+IP: 127.0.0.1
+Port: 55180
+CONNECTING TIME: 854 
+==================================
+[Wed May 31 07:11:00 2023] IdleProcessCount : 5
+
+========== New Client ==========
+TIME : [Wed May 31 07:11:04 2023]
+URL : 3_32.c
+IP: 127.0.0.1
+Port: 55182
+================================
+[Wed May 31 07:11:04 2023] IdleProcessCount : 4
+
+====== Disconnected Client =======
+TIME : [Wed May 31 07:11:04 2023]
+URL : 3_32.c
+IP: 127.0.0.1
+Port: 55182
+CONNECTING TIME: 376 
+==================================
+[Wed May 31 07:11:09 2023] IdleProcessCount : 5
+
+========== New Client ==========
+TIME : [Wed May 31 07:11:09 2023]
+URL : accessible.usr
+IP: 127.0.0.1
+Port: 55186
+================================
+[Wed May 31 07:11:09 2023] IdleProcessCount : 4
+
+====== Disconnected Client =======
+TIME : [Wed May 31 07:11:09 2023]
+URL : accessible.usr
+IP: 127.0.0.1
+Port: 55186
+CONNECTING TIME: 224 
+==================================
+
+========== New Client ==========
+TIME : [Wed May 31 07:11:12 2023]
+URL : test
+IP: 127.0.0.1
+Port: 55188
+================================
+[Wed May 31 07:11:12 2023] IdleProcessCount : 3
+
+====== Disconnected Client =======
+TIME : [Wed May 31 07:11:12 2023]
+URL : test
+IP: 127.0.0.1
+Port: 55188
+CONNECTING TIME: 262 
+==================================
+
+========== New Client ==========
+TIME : [Wed May 31 07:11:14 2023]
+URL : server_log.txt
+IP: 127.0.0.1
+Port: 55190
+================================
+[Wed May 31 07:11:14 2023] IdleProcessCount : 2
+
+====== Disconnected Client =======
+TIME : [Wed May 31 07:11:14 2023]
+URL : server_log.txt
+IP: 127.0.0.1
+Port: 55190
+CONNECTING TIME: 290 
+==================================
+[Wed May 31 07:11:14 2023] IdleProcessCount : 3
+[Wed May 31 07:11:17 2023] IdleProcessCount : 4
+[Wed May 31 07:11:19 2023] IdleProcessCount : 5
+[Wed May 31 07:46:41 2023] Server is started
+[Wed May 31 07:46:41 2023] 6677 process is forked.
+[Wed May 31 07:46:41 2023] IdleProcessCount : 1
+[Wed May 31 07:46:41 2023] 6679 process is forked.
+[Wed May 31 07:46:41 2023] IdleProcessCount : 2
+[Wed May 31 07:46:41 2023] 6681 process is forked.
+[Wed May 31 07:46:41 2023] IdleProcessCount : 3
+[Wed May 31 07:46:41 2023] 6683 process is forked.
+[Wed May 31 07:46:41 2023] IdleProcessCount : 4
+[Wed May 31 07:46:41 2023] 6685 process is forked.
+[Wed May 31 07:46:41 2023] IdleProcessCount : 5
+
+========== New Client ==========
+TIME : [Wed May 31 07:46:53 2023]
+URL : .
+IP: 127.0.0.1
+Port: 55268
+================================
+[Wed May 31 07:46:53 2023] IdleProcessCount : 4
+
+====== Disconnected Client =======
+TIME : [Wed May 31 07:46:53 2023]
+URL : .
+IP: 127.0.0.1
+Port: 55268
+CONNECTING TIME: 779 
+==================================
+
+========== New Client ==========
+TIME : [Wed May 31 07:46:57 2023]
+URL : .
+IP: 127.0.0.1
+Port: 55270
+================================
+[Wed May 31 07:46:57 2023] IdleProcessCount : 3
+
+====== Disconnected Client =======
+TIME : [Wed May 31 07:46:57 2023]
+URL : .
+IP: 127.0.0.1
+Port: 55270
+CONNECTING TIME: 1118 
+==================================
+[Wed May 31 07:46:58 2023] IdleProcessCount : 4
+[Wed May 31 07:47:02 2023] IdleProcessCount : 5
+
+========== New Client ==========
+TIME : [Wed May 31 07:47:04 2023]
+URL : .
+IP: 127.0.0.1
+Port: 55274
+================================
+[Wed May 31 07:47:04 2023] IdleProcessCount : 4
+
+====== Disconnected Client =======
+TIME : [Wed May 31 07:47:04 2023]
+URL : .
+IP: 127.0.0.1
+Port: 55274
+CONNECTING TIME: 925 
+==================================
+[Wed May 31 07:47:09 2023] IdleProcessCount : 5
+
+========== New Client ==========
+TIME : [Wed May 31 07:47:11 2023]
+URL : 2020202096_semaphore_server.c
+IP: 127.0.0.1
+Port: 55276
+================================
+[Wed May 31 07:47:11 2023] IdleProcessCount : 4
+
+====== Disconnected Client =======
+TIME : [Wed May 31 07:47:11 2023]
+URL : 2020202096_semaphore_server.c
+IP: 127.0.0.1
+Port: 55276
+CONNECTING TIME: 284 
+==================================
+
+========== New Client ==========
+TIME : [Wed May 31 07:47:12 2023]
+URL : accessible.usr
+IP: 127.0.0.1
+Port: 55278
+================================
+[Wed May 31 07:47:12 2023] IdleProcessCount : 3
+
+====== Disconnected Client =======
+TIME : [Wed May 31 07:47:12 2023]
+URL : accessible.usr
+IP: 127.0.0.1
+Port: 55278
+CONNECTING TIME: 132 
+==================================
+
+========== New Client ==========
+TIME : [Wed May 31 07:47:15 2023]
+URL : httpd.conf
+IP: 127.0.0.1
+Port: 55282
+================================
+[Wed May 31 07:47:15 2023] IdleProcessCount : 2
+
+====== Disconnected Client =======
+TIME : [Wed May 31 07:47:15 2023]
+URL : httpd.conf
+IP: 127.0.0.1
+Port: 55282
+CONNECTING TIME: 206 
+==================================
+[Wed May 31 07:47:16 2023] IdleProcessCount : 3
+[Wed May 31 07:47:17 2023] IdleProcessCount : 4
+[Wed May 31 07:47:20 2023] IdleProcessCount : 5
